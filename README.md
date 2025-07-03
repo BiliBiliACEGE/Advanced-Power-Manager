@@ -17,14 +17,45 @@ Dieses Tool ist ein erweiterter Energiemanager für Windows, entwickelt mit PyQt
 
 ---
 
-## 主要功能 / Features / Funciones / Fonctionnalités / Funktionen
-
+## 主要功能 (中文)
 - 快速切换电源计划（节能、平衡、高性能、卓越性能）
 - 查看和管理所有电源计划（包括删除自定义计划）
 - 修改高级电源相关注册表设置（如 PlatformAoAcOverride）
 - 执行自定义 PowerShell 命令
 - 多语言界面（简体中文、English、Español、Français、Deutsch）
 - 深色主题界面
+
+## Features (English)
+- Quickly switch power plans (Power Saver, Balanced, High Performance, Ultimate Performance)
+- View and manage all power plans (including deleting custom plans)
+- Modify advanced power-related registry settings (such as PlatformAoAcOverride)
+- Run custom PowerShell commands
+- Multi-language interface (Simplified Chinese, English, Spanish, French, German)
+- Dark theme interface
+
+## Funciones (Español)
+- Cambio rápido de planes de energía (Ahorro, Equilibrado, Alto rendimiento, Máximo rendimiento)
+- Ver y gestionar todos los planes de energía (incluida la eliminación de planes personalizados)
+- Modificar configuraciones avanzadas del registro relacionadas con la energía (como PlatformAoAcOverride)
+- Ejecutar comandos personalizados de PowerShell
+- Interfaz multilingüe (Chino simplificado, Inglés, Español, Francés, Alemán)
+- Interfaz de tema oscuro
+
+## Fonctionnalités (Français)
+- Changement rapide de plan d'alimentation (Économie, Équilibré, Haute performance, Performance ultime)
+- Voir et gérer tous les plans d'alimentation (y compris la suppression des plans personnalisés)
+- Modifier les paramètres avancés du registre liés à l'alimentation (comme PlatformAoAcOverride)
+- Exécuter des commandes PowerShell personnalisées
+- Interface multilingue (Chinois simplifié, Anglais, Espagnol, Français, Allemand)
+- Interface en thème sombre
+
+## Funktionen (Deutsch)
+- Schnelles Umschalten von Energieplänen (Energiesparen, Ausbalanciert, Höchstleistung, Ultimative Leistung)
+- Alle Energiepläne anzeigen und verwalten (einschließlich Löschen benutzerdefinierter Pläne)
+- Erweiterte Registry-Einstellungen für Energie ändern (wie PlatformAoAcOverride)
+- Benutzerdefinierte PowerShell-Befehle ausführen
+- Mehrsprachige Oberfläche (Vereinfachtes Chinesisch, Englisch, Spanisch, Französisch, Deutsch)
+- Dunkles Design
 
 ---
 
