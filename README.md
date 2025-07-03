@@ -30,7 +30,8 @@ Dieses Tool ist ein erweiterter Energiemanager für Windows, entwickelt mit PyQt
 
 ## 截图 (Screenshots)
 
-![screenshot](screenshot.png)
+![main](https://github.com/user-attachments/assets/4e0285e8-0fee-4150-9326-79dd03a0ca01)
+
 
 ---
 
